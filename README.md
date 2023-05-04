@@ -12,5 +12,5 @@ We can visualize the time taken by each algorithm for randomly generated block a
 
 Project used HTML, CSS, JavaScript, Bootstrap 4 and knowledge about different sorting algoritms.
 
-thanks!!
- 
+Here i am modified the readme file
+
